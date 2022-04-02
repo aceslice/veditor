@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="275" height="40" viewBox="0 0 275 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="275" height="40" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="343" height="40" rx="9" fill="#8cff98"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_1" data-name="Scroll Group 1" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <g id="Group">
+      <g id="Group_92" data-name="Group 92">
+        <rect id="Rectangle_52-2" data-name="Rectangle 52" width="343" height="40" rx="9" fill="#8cff98"/>
+        <g id="Group_92-2" data-name="Group 92" clip-path="url(#clip-path-2)">
+          <g id="Rectangle_54" data-name="Rectangle 54" fill="#242625" stroke="#000" stroke-width="1" stroke-dasharray="0 0">
+            <rect width="343" height="40" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="342" height="39" rx="7.5" fill="none"/>
+          </g>
+          <g id="Group_91" data-name="Group 91" transform="translate(-2.959 10.923)">
+            <path id="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(0 5.085)" fill="#959a9c"/>
+            <path id="Vector-2" data-name="Vector" d="M0,1.506V8.018a1.506,1.506,0,0,0,3.012,0V1.506A1.506,1.506,0,0,0,0,1.506Z" transform="translate(24.072 4.238)" fill="#3ad180"/>
+            <path id="Vector-3" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V9.714a1.506,1.506,0,0,0,3.012,0Z" transform="translate(20.06 3.39)" fill="#3ad180"/>
+            <path id="Vector-4" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506v9.9a1.506,1.506,0,0,0,3.012,0Z" transform="translate(4.012 2.542)" fill="#3ad180"/>
+            <path id="Vector-5" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V13.1a1.506,1.506,0,0,0,3.012,0Z" transform="translate(8.024 1.695)" fill="#3ad180"/>
+            <path id="Vector-6" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,1,0,0,1.506V14.8a1.506,1.506,0,1,0,3.012,0Z" transform="translate(16.048 0.848)" fill="#3ad180"/>
+            <path id="Vector-7" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V16.494a1.506,1.506,0,0,0,3.012,0Z" transform="translate(12.036)" fill="#3ad180"/>
+            <path id="Vector-8" data-name="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(28.084 5.085)" fill="#3ad180"/>
+            <path id="Vector-9" data-name="Vector" d="M0,1.506V8.018a1.506,1.506,0,0,0,3.012,0V1.506A1.506,1.506,0,0,0,0,1.506Z" transform="translate(36.107 4.238)" fill="#3ad180"/>
+            <path id="Vector-10" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V9.714a1.506,1.506,0,0,0,3.012,0Z" transform="translate(32.096 3.39)" fill="#3ad180"/>
+            <path id="Vector-11" data-name="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(52.155 5.085)" fill="#3ad180"/>
+            <path id="Vector-12" data-name="Vector" d="M0,1.506V8.018a1.506,1.506,0,0,0,3.012,0V1.506A1.506,1.506,0,0,0,0,1.506Z" transform="translate(76.228 4.238)" fill="#3ad180"/>
+            <path id="Vector-13" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V9.714a1.506,1.506,0,0,0,3.012,0Z" transform="translate(72.215 3.39)" fill="#3ad180"/>
+            <path id="Vector-14" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506v9.9a1.506,1.506,0,0,0,3.012,0Z" transform="translate(56.167 2.542)" fill="#3ad180"/>
+            <path id="Vector-15" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V13.1a1.506,1.506,0,0,0,3.012,0Z" transform="translate(60.18 1.695)" fill="#3ad180"/>
+            <path id="Vector-16" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,1,0,0,1.506V14.8a1.506,1.506,0,1,0,3.012,0Z" transform="translate(68.203 0.848)" fill="#3ad180"/>
+            <path id="Vector-17" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V16.494a1.506,1.506,0,0,0,3.012,0Z" transform="translate(64.191)" fill="#3ad180"/>
+            <path id="Vector-18" data-name="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(80.239 5.085)" fill="#3ad180"/>
+            <path id="Vector-19" data-name="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(152.455 5.085)" fill="#959a9c"/>
+            <path id="Vector-20" data-name="Vector" d="M0,1.506V8.018a1.506,1.506,0,0,0,3.012,0V1.506A1.506,1.506,0,0,0,0,1.506Z" transform="translate(176.526 4.238)" fill="#959a9c"/>
+            <path id="Vector-21" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V9.714a1.506,1.506,0,0,0,3.012,0Z" transform="translate(172.515 3.39)" fill="#959a9c"/>
+            <path id="Vector-22" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506v9.9a1.506,1.506,0,0,0,3.012,0Z" transform="translate(156.467 2.542)" fill="#959a9c"/>
+            <path id="Vector-23" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V13.1a1.506,1.506,0,0,0,3.012,0Z" transform="translate(160.479 1.695)" fill="#959a9c"/>
+            <path id="Vector-24" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,1,0,0,1.506V14.8a1.506,1.506,0,1,0,3.012,0Z" transform="translate(168.502 0.848)" fill="#959a9c"/>
+            <path id="Vector-25" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V16.494a1.506,1.506,0,0,0,3.012,0Z" transform="translate(164.49)" fill="#959a9c"/>
+            <path id="Vector-26" data-name="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(180.538 5.085)" fill="#959a9c"/>
+            <path id="Vector-27" data-name="Vector" d="M0,1.506V8.018a1.506,1.506,0,0,0,3.012,0V1.506A1.506,1.506,0,0,0,0,1.506Z" transform="translate(96.287 4.238)" fill="#3ad180"/>
+            <path id="Vector-28" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V9.714a1.506,1.506,0,0,0,3.012,0Z" transform="translate(92.275 3.39)" fill="#3ad180"/>
+            <path id="Vector-29" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506v9.9a1.506,1.506,0,0,0,3.012,0Z" transform="translate(84.251 2.542)" fill="#3ad180"/>
+            <path id="Vector-30" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V13.1a1.506,1.506,0,0,0,3.012,0Z" transform="translate(88.263 1.695)" fill="#3ad180"/>
+            <path id="Vector-31" data-name="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(100.299 5.085)" fill="#3ad180"/>
+            <path id="Vector-32" data-name="Vector" d="M0,1.506V8.018a1.506,1.506,0,0,0,3.012,0V1.506A1.506,1.506,0,0,0,0,1.506Z" transform="translate(108.323 4.238)" fill="#3ad180"/>
+            <path id="Vector-33" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V9.714a1.506,1.506,0,0,0,3.012,0Z" transform="translate(104.311 3.39)" fill="#3ad180"/>
+            <path id="Vector-34" data-name="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(112.335 5.085)" fill="#3ad180"/>
+            <path id="Vector-35" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506v9.9a1.506,1.506,0,0,0,3.012,0Z" transform="translate(116.347 2.542)" fill="#3ad180"/>
+            <path id="Vector-36" data-name="Vector" d="M0,1.506V8.018a1.506,1.506,0,0,0,3.012,0V1.506A1.506,1.506,0,0,0,0,1.506Z" transform="translate(48.144 4.238)" fill="#3ad180"/>
+            <path id="Vector-37" data-name="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(120.359 5.085)" fill="#3ad180"/>
+            <path id="Vector-38" data-name="Vector" d="M0,1.506V8.018a1.506,1.506,0,0,0,3.012,0V1.506A1.506,1.506,0,0,0,0,1.506Z" transform="translate(144.431 4.238)" fill="#959a9c"/>
+            <path id="Vector-39" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V9.714a1.506,1.506,0,0,0,3.012,0Z" transform="translate(140.419 3.39)" fill="#959a9c"/>
+            <path id="Vector-40" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506v9.9a1.506,1.506,0,0,0,3.012,0Z" transform="translate(124.371 2.542)" fill="#959a9c"/>
+            <path id="Vector-41" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V13.1a1.506,1.506,0,0,0,3.012,0Z" transform="translate(128.383 1.695)" fill="#959a9c"/>
+            <path id="Vector-42" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,1,0,0,1.506V14.8a1.506,1.506,0,1,0,3.012,0Z" transform="translate(136.407 0.848)" fill="#959a9c"/>
+            <path id="Vector-43" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V16.494a1.506,1.506,0,0,0,3.012,0Z" transform="translate(132.395)" fill="#959a9c"/>
+            <path id="Vector-44" data-name="Vector" d="M3.012,6.323V1.506A1.506,1.506,0,0,0,0,1.506V6.323a1.506,1.506,0,0,0,3.012,0Z" transform="translate(40.12 5.085)" fill="#3ad180"/>
+            <path id="Vector-45" data-name="Vector" d="M0,1.506V8.018a1.506,1.506,0,0,0,3.012,0V1.506A1.506,1.506,0,0,0,0,1.506Z" transform="translate(148.442 4.238)" fill="#959a9c"/>
+            <path id="Vector-46" data-name="Vector" d="M3.012,1.506A1.506,1.506,0,0,0,0,1.506V9.714a1.506,1.506,0,0,0,3.012,0Z" transform="translate(44.132 3.39)" fill="#3ad180"/>
+            <path id="Vector-47" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(327.981 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-48" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(380.137 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-49" data-name="Vector" d="M0-1.506V-8.018A1.506,1.506,0,0,1,1.506-9.524,1.506,1.506,0,0,1,3.012-8.018v6.512A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506Z" transform="translate(303.909 4.238) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-50" data-name="Vector" d="M0-1.506V-8.018A1.506,1.506,0,0,1,1.506-9.524,1.506,1.506,0,0,1,3.012-8.018v6.512A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506Z" transform="translate(356.064 4.238) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-51" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(307.921 3.39) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-52" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(360.077 3.39) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-53" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506v-9.9a1.506,1.506,0,0,1,1.506-1.506,1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(323.969 2.542) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-54" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506v-9.9a1.506,1.506,0,0,1,1.506-1.506,1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(376.125 2.542) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-55" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-13.1A1.506,1.506,0,0,1,1.506-14.61,1.506,1.506,0,0,1,3.012-13.1Z" transform="translate(319.957 1.695) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-56" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-13.1A1.506,1.506,0,0,1,1.506-14.61,1.506,1.506,0,0,1,3.012-13.1Z" transform="translate(372.112 1.695) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-57" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-14.8A1.506,1.506,0,0,1,1.506-16.3,1.506,1.506,0,0,1,3.012-14.8Z" transform="translate(311.933 0.848) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-58" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-14.8A1.506,1.506,0,0,1,1.506-16.3,1.506,1.506,0,0,1,3.012-14.8Z" transform="translate(364.089 0.848) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-59" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-16.494A1.506,1.506,0,0,1,1.506-18a1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(315.945) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-60" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-16.494A1.506,1.506,0,0,1,1.506-18a1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(368.101) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-61" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(299.897 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-62" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(352.053 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-63" data-name="Vector" d="M0-1.506V-8.018A1.506,1.506,0,0,1,1.506-9.524,1.506,1.506,0,0,1,3.012-8.018v6.512A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506Z" transform="translate(291.873 4.238) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-64" data-name="Vector" d="M0-1.506V-8.018A1.506,1.506,0,0,1,1.506-9.524,1.506,1.506,0,0,1,3.012-8.018v6.512A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506Z" transform="translate(344.029 4.238) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-65" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(295.885 3.39) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-66" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(348.041 3.39) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-67" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(275.825 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-68" data-name="Vector" d="M0-1.506V-8.018A1.506,1.506,0,0,1,1.506-9.524,1.506,1.506,0,0,1,3.012-8.018v6.512A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506Z" transform="translate(251.754 4.238) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-69" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(255.766 3.39) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-70" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506v-9.9a1.506,1.506,0,0,1,1.506-1.506,1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(271.813 2.542) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-71" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-13.1A1.506,1.506,0,0,1,1.506-14.61,1.506,1.506,0,0,1,3.012-13.1Z" transform="translate(267.802 1.695) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-72" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-14.8A1.506,1.506,0,0,1,1.506-16.3,1.506,1.506,0,0,1,3.012-14.8Z" transform="translate(259.777 0.848) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-73" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-16.494A1.506,1.506,0,0,1,1.506-18a1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(263.79) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-74" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(247.742 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-75" data-name="Vector" d="M0-1.506V-8.018A1.506,1.506,0,0,1,1.506-9.524,1.506,1.506,0,0,1,3.012-8.018v6.512A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506Z" transform="translate(231.694 4.238) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-76" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(235.706 3.39) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-77" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506v-9.9a1.506,1.506,0,0,1,1.506-1.506,1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(243.729 2.542) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-78" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-13.1A1.506,1.506,0,0,1,1.506-14.61,1.506,1.506,0,0,1,3.012-13.1Z" transform="translate(239.718 1.695) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-79" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(227.682 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-80" data-name="Vector" d="M0-1.506V-8.018A1.506,1.506,0,0,1,1.506-9.524,1.506,1.506,0,0,1,3.012-8.018v6.512A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506Z" transform="translate(219.658 4.238) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-81" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(223.67 3.39) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-82" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(215.646 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-83" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506v-9.9a1.506,1.506,0,0,1,1.506-1.506,1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(211.634 2.542) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-84" data-name="Vector" d="M0-1.506V-8.018A1.506,1.506,0,0,1,1.506-9.524,1.506,1.506,0,0,1,3.012-8.018v6.512A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506Z" transform="translate(279.837 4.238) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-85" data-name="Vector" d="M0-1.506V-8.018A1.506,1.506,0,0,1,1.506-9.524,1.506,1.506,0,0,1,3.012-8.018v6.512A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506Z" transform="translate(331.993 4.238) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-86" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(207.622 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-87" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(187.563 3.39) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-88" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506v-9.9a1.506,1.506,0,0,1,1.506-1.506,1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(203.61 2.542) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-89" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-13.1A1.506,1.506,0,0,1,1.506-14.61,1.506,1.506,0,0,1,3.012-13.1Z" transform="translate(199.598 1.695) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-90" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-14.8A1.506,1.506,0,0,1,1.506-16.3,1.506,1.506,0,0,1,3.012-14.8Z" transform="translate(191.574 0.848) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-91" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-16.494A1.506,1.506,0,0,1,1.506-18a1.506,1.506,0,0,1,1.506,1.506Z" transform="translate(195.586) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-92" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(287.861 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-93" data-name="Vector" d="M3.012-6.323v4.817A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-6.323A1.506,1.506,0,0,1,1.506-7.829,1.506,1.506,0,0,1,3.012-6.323Z" transform="translate(340.017 5.085) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-94" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(283.85 3.39) rotate(180)" fill="#959a9c"/>
+            <path id="Vector-95" data-name="Vector" d="M3.012-1.506A1.506,1.506,0,0,1,1.506,0,1.506,1.506,0,0,1,0-1.506V-9.714A1.506,1.506,0,0,1,1.506-11.22,1.506,1.506,0,0,1,3.012-9.714Z" transform="translate(336.005 3.39) rotate(180)" fill="#959a9c"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

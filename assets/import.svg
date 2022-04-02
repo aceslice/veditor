@@ -1,0 +1,7 @@
+<svg id="Component_5_1" data-name="Component 5 – 1" xmlns="http://www.w3.org/2000/svg" width="60" height="42.478" viewBox="0 0 60 42.478">
+  <g id="Group_25" data-name="Group 25" transform="translate(-910.5 -64.584)">
+    <path id="Path_137" data-name="Path 137" d="M952.243,64.584H926.455a1.319,1.319,0,0,0-1.317,1.317V84.374a1.314,1.314,0,0,0,1.312,1.312h25.8a1.315,1.315,0,0,0,1.317-1.312V65.9A1.32,1.32,0,0,0,952.243,64.584Zm.428,16.541h-5.989V69.144h5.989ZM926.031,69.144h5.99V81.123h-5.99ZM945.79,81.123H932.914V69.144H945.79Zm3.82-12.872h-2.165V65.475h2.165Zm-6.115,0h-2.169V65.475H943.5Zm-6.119,0h-2.169V65.475h2.169Zm-6.12,0h-2.169V65.475h2.169Zm-2.169,13.765h2.169v2.776h-2.169Zm6.119,0h2.169v2.776h-2.169Zm6.119,0H943.5v2.776h-2.169Zm6.119,0h2.165v2.776h-2.165Z" transform="translate(0)" fill="#bfbfbf"/>
+    <path id="Path_138" data-name="Path 138" d="M951.271,77.914a4.6,4.6,0,1,0,4.6,4.6A4.6,4.6,0,0,0,951.271,77.914Zm1.437,5.45-1.607.964a1.078,1.078,0,0,1-1.629-.924V81.478a1.076,1.076,0,0,1,1.629-.924l1.607.964a1.074,1.074,0,0,1,0,1.845Z" transform="translate(-11.921 -7.381)" fill="#bfbfbf"/>
+  </g>
+  <text id="Import_Video" data-name="Import Video" transform="translate(0 39.478)" fill="#bababa" font-size="10" font-family="CerebriSans-Book, Cerebri Sans"><tspan x="0" y="0">Import Video</tspan></text>
+</svg>
