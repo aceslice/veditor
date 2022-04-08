@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Comfortaa;
+  src: url(/assets/fonts/Comfortaa-VariableFont_wght.ttf);
+}
 $dark: #0c0c0c;
 $grey: #bababa;
 $light-grey: #e8dede24;
@@ -11,7 +15,8 @@ $light-grey: #e8dede24;
 body {
   background-color: #000;
   color: #fff;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  font-family: "Comfortaa",Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .topnav {
@@ -41,7 +46,7 @@ body {
 
     .item {
       padding: 8px;
-      transition: 0.5s;
+      transition: 200ms ease-in-out;
       margin: 10px 0;
       display: flex;
       align-items: center;
@@ -122,7 +127,6 @@ body {
         color: #bababa;
       }
     }
-
     .post {
       display: flex;
       width: 100%;
@@ -132,7 +136,7 @@ body {
       .img {
         display: flex;
         position: relative;
-        transition: 0.5s;
+        transition: 200ms ease-in-out;
         height: 70px;
         width: 70px;
 
@@ -180,8 +184,8 @@ body {
       border: 1px solid #fff;
       border-radius: 25px;
       text-align: center;
-      font-size: 16px;
-      transition: 0.5s ease;
+      font-size: 14px;
+      transition:200ms ease-in-out;
 
       &:hover {
         background-color: #fff;
@@ -280,7 +284,6 @@ body {
       align-items: center;
       justify-content: space-evenly;
       margin-bottom: 20px;
-
       h2 {
         font-size: 16px;
         font-weight: 500;
@@ -298,10 +301,9 @@ body {
       .img-container {
         display: flex;
         position: relative;
-        transition: 0.5s;
+        transition: 200ms ease-in-out;
         height: 40px;
         width: 40px;
-
         &:hover {
           transform: scale(1.04);
         }
@@ -346,7 +348,14 @@ body {
         color: $dark;
         background-color: #fff;
         border-radius: 25px;
-        font-size: 14px;
+        font-size: 12px;
+        transition: 200ms ease-in-out;
+        border: 1px solid #fff;
+        &:hover{
+          background-color: transparent;
+          color: #fff;
+       
+        }
       }
     }
 
@@ -391,7 +400,7 @@ body {
   margin: 20px 40px;
 background-color: #0c0c0c;
   .upper {
-    border-radius: 10px 20px 0 0;
+    border-radius: 10px 10px 0 0;
     border: 1px solid #3a3a3a;
     display: flex;
     align-items: center;

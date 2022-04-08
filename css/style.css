@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Comfortaa;
+  src: url(/assets/fonts/Comfortaa-VariableFont_wght.ttf);
+}
+
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -8,7 +13,8 @@
 body {
   background-color: #000;
   color: #fff;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  font-family: "Comfortaa",Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .topnav {
@@ -53,8 +59,8 @@ body {
 
 .topnav .menu .item {
   padding: 8px;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 200ms ease-in-out;
+  transition: 200ms ease-in-out;
   margin: 10px 0;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -175,8 +181,8 @@ body {
   display: -ms-flexbox;
   display: flex;
   position: relative;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 200ms ease-in-out;
+  transition: 200ms ease-in-out;
   height: 70px;
   width: 70px;
 }
@@ -230,9 +236,9 @@ body {
   border: 1px solid #fff;
   border-radius: 25px;
   text-align: center;
-  font-size: 16px;
-  -webkit-transition: 0.5s ease;
-  transition: 0.5s ease;
+  font-size: 14px;
+  -webkit-transition: 200ms ease-in-out;
+  transition: 200ms ease-in-out;
 }
 
 .container .left .btn:hover {
@@ -387,8 +393,8 @@ body {
   display: -ms-flexbox;
   display: flex;
   position: relative;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 200ms ease-in-out;
+  transition: 200ms ease-in-out;
   height: 40px;
   width: 40px;
 }
@@ -452,7 +458,15 @@ body {
   color: #0c0c0c;
   background-color: #fff;
   border-radius: 25px;
-  font-size: 14px;
+  font-size: 12px;
+  -webkit-transition: 200ms ease-in-out;
+  transition: 200ms ease-in-out;
+  border: 1px solid #fff;
+}
+
+.right .container .card .btn:hover {
+  background-color: transparent;
+  color: #fff;
 }
 
 .right .container .wav {
@@ -502,7 +516,7 @@ body {
 }
 
 .bottom .upper {
-  border-radius: 10px 20px 0 0;
+  border-radius: 10px 10px 0 0;
   border: 1px solid #3a3a3a;
   display: -webkit-box;
   display: -ms-flexbox;
