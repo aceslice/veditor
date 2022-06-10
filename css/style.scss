@@ -13,23 +13,22 @@ $light-grey: #e8dede24;
 }
 
 body {
-  background-color: #000;
+  background-color: #191919;
   color: #fff;
   font-size: 15px;
-  font-family: "Comfortaa",Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Comfortaa", Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/*Top nav */
 .topnav {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: sticky;
   width: 100%;
   background-color: $dark;
   margin-bottom: 20px;
-.menu-bar{
-  margin-left: 40px;
-}
+  .menu-bar {
+    margin-left: 40px;
+  }
   .logo {
     display: flex;
     margin-left: 40px;
@@ -53,11 +52,12 @@ body {
       justify-content: center;
       flex-direction: column;
       margin-right: 20px;
-      border-radius: 5px;
+      border-radius: 8px;
 
       img {
         height: 50%;
         color: #080808;
+        margin-bottom: 5px;
       }
 
       p {
@@ -96,25 +96,26 @@ body {
     }
   }
 }
-
+/* Main Container*/
 .container {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 10px;
 
+  /*Tutorials and Video Guides Container*/
   .left {
     width: 300px;
-    padding: 15px 20px;
+    padding: 20px;
     background: $dark;
-    border-radius: 10px;
+    border-radius: 8px;
     display: flex;
     align-items: left;
     justify-content: center;
     flex-direction: column;
 
     .text {
-      margin-bottom: 15px;
+      margin-bottom: 20px;
 
       h2 {
         font-size: 18px;
@@ -185,7 +186,7 @@ body {
       border-radius: 25px;
       text-align: center;
       font-size: 14px;
-      transition:200ms ease-in-out;
+      transition: 200ms ease-in-out;
 
       &:hover {
         background-color: #fff;
@@ -195,19 +196,19 @@ body {
   }
 }
 
+/*Main Editor*/
 .middle {
-  padding: 0 20px;
+  padding: 0 15px;
 
   .video-container {
     margin: 0 auto;
     background-color: $dark;
     width: 600px;
     border-radius: 10px;
-
+    overflow: hidden;
     video {
       width: 100%;
       height: auto;
-      border-radius: 10px 10px 0 0;
     }
 
     .controls {
@@ -268,10 +269,11 @@ body {
   }
 }
 
+/*Browse Music Container*/
 .right {
   .container {
     width: 300px;
-    padding: 15px 20px;
+    padding: 20px;
     background: $dark;
     border-radius: 10px;
     display: flex;
@@ -282,12 +284,12 @@ body {
     .head {
       display: flex;
       align-items: center;
-      justify-content: space-evenly;
+      justify-content: space-between;
       margin-bottom: 20px;
+      width: 100%;
       h2 {
         font-size: 16px;
         font-weight: 500;
-        margin-right: 100px;
       }
     }
 
@@ -351,10 +353,9 @@ body {
         font-size: 12px;
         transition: 200ms ease-in-out;
         border: 1px solid #fff;
-        &:hover{
+        &:hover {
           background-color: transparent;
           color: #fff;
-       
         }
       }
     }
@@ -365,40 +366,48 @@ body {
     }
 
     .song {
-      display: flex;
-      align-items: center;
-      justify-content: center;
       margin-bottom: 20px;
       width: 100%;
-
+      position: relative;
+      display: flex;
+      align-items: center;
       .artist {
         height: 40px;
         width: 40px;
+        margin-right: 20px;
       }
 
       .text {
-        margin: 0 auto;
-        text-align: left;
-
+        display: flex;
+        align-items: left;
+        justify-content: center;
+        flex-direction: column;
         .title {
           font-size: 12px;
           margin-bottom: 5px;
-          margin-left: -60px;
         }
 
         .subtitle {
           font-size: 10px;
           color: #bababa;
-          margin-left: -60px;
         }
+       
+      }
+      .icon {
+        position: absolute;
+        right: 0;
       }
     }
   }
 }
 
+/*Main Editing Buttons*/
 .bottom {
-  margin: 20px 40px;
-background-color: #0c0c0c;
+ width: 98%;
+  background-color: #000;
+  margin: 0 auto;
+  border-radius: 10px 10px 0 0;
+  /*Timestamps container*/
   .upper {
     border-radius: 10px 10px 0 0;
     border: 1px solid #3a3a3a;
@@ -406,7 +415,7 @@ background-color: #0c0c0c;
     align-items: center;
     justify-content: space-between;
     padding: 0 25px;
-
+    overflow: hidden;
     .icons {
       padding: 10px;
       border-right: 1px solid #3a3a3a;
@@ -422,6 +431,7 @@ background-color: #0c0c0c;
     }
   }
 
+  /*Video slider and length Section*/
   .inner {
     display: flex;
     align-items: center;
@@ -466,6 +476,7 @@ background-color: #0c0c0c;
     }
   }
 
+  /*Audio Slider and length Section*/
   .lower {
     display: flex;
     align-items: center;

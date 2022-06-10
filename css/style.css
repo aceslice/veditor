@@ -11,12 +11,13 @@
 }
 
 body {
-  background-color: #000;
+  background-color: #191919;
   color: #fff;
   font-size: 15px;
-  font-family: "Comfortaa",Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Comfortaa", Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/*Top nav */
 .topnav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -27,8 +28,6 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  position: -webkit-sticky;
-  position: sticky;
   width: 100%;
   background-color: #0c0c0c;
   margin-bottom: 20px;
@@ -76,12 +75,13 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   margin-right: 20px;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 .topnav .menu .item img {
   height: 50%;
   color: #080808;
+  margin-bottom: 5px;
 }
 
 .topnav .menu .item p {
@@ -119,6 +119,7 @@ body {
   background-color: #e8dede24;
 }
 
+/* Main Container*/
 .container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -130,13 +131,14 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
   margin-bottom: 10px;
+  /*Tutorials and Video Guides Container*/
 }
 
 .container .left {
   width: 300px;
-  padding: 15px 20px;
+  padding: 20px;
   background: #0c0c0c;
-  border-radius: 10px;
+  border-radius: 8px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -153,7 +155,7 @@ body {
 }
 
 .container .left .text {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 .container .left .text h2 {
@@ -246,8 +248,9 @@ body {
   color: #080808;
 }
 
+/*Main Editor*/
 .middle {
-  padding: 0 20px;
+  padding: 0 15px;
 }
 
 .middle .video-container {
@@ -255,12 +258,12 @@ body {
   background-color: #0c0c0c;
   width: 600px;
   border-radius: 10px;
+  overflow: hidden;
 }
 
 .middle .video-container video {
   width: 100%;
   height: auto;
-  border-radius: 10px 10px 0 0;
 }
 
 .middle .video-container .controls {
@@ -335,9 +338,10 @@ body {
   margin-left: 5px;
 }
 
+/*Browse Music Container*/
 .right .container {
   width: 300px;
-  padding: 15px 20px;
+  padding: 20px;
   background: #0c0c0c;
   border-radius: 10px;
   display: -webkit-box;
@@ -362,16 +366,16 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   margin-bottom: 20px;
+  width: 100%;
 }
 
 .right .container .head h2 {
   font-size: 16px;
   font-weight: 500;
-  margin-right: 100px;
 }
 
 .right .container .card {
@@ -475,44 +479,63 @@ body {
 }
 
 .right .container .song {
+  margin-bottom: 20px;
+  width: 100%;
+  position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  margin-bottom: 20px;
-  width: 100%;
 }
 
 .right .container .song .artist {
   height: 40px;
   width: 40px;
+  margin-right: 20px;
 }
 
 .right .container .song .text {
-  margin: 0 auto;
-  text-align: left;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: left;
+      -ms-flex-align: left;
+          align-items: left;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .right .container .song .text .title {
   font-size: 12px;
   margin-bottom: 5px;
-  margin-left: -60px;
 }
 
 .right .container .song .text .subtitle {
   font-size: 10px;
   color: #bababa;
-  margin-left: -60px;
 }
 
+.right .container .song .icon {
+  position: absolute;
+  right: 0;
+}
+
+/*Main Editing Buttons*/
 .bottom {
-  margin: 20px 40px;
-  background-color: #0c0c0c;
+  width: 98%;
+  background-color: #000;
+  margin: 0 auto;
+  border-radius: 10px 10px 0 0;
+  /*Timestamps container*/
+  /*Video slider and length Section*/
+  /*Audio Slider and length Section*/
 }
 
 .bottom .upper {
@@ -528,6 +551,7 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between;
   padding: 0 25px;
+  overflow: hidden;
 }
 
 .bottom .upper .icons {
